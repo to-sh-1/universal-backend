@@ -2,6 +2,9 @@
 
 A Node.js backend service for handling uAsset coins across multiple blockchain networks including EVM-compatible chains (Ethereum, Base, Polygon) and Solana.
 
+
+The endpoints are testable with ERC-20 Contract Addresses. I hard coded some logic to show what this would look like if you were calling our custom contract
+
 ## Features
 
 - **Multi-Chain Support**: EVM (Ethereum, Base, Polygon, Arbitrum, Optimism) and Solana
